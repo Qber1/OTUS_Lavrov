@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Qber1/OTUS_Lavrov/issues"
   },
-  "homepage": "https://github.com/Qber1/OTUS_Lavrov#readme"
+  "homepage": "https://github.com/Qber1/OTUS_Lavrov#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
