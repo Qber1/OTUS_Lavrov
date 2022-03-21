@@ -1,0 +1,26 @@
+{
+  "name": "otus_lessons",
+  "version": "1.0.0",
+  "description": "react learning 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qber1/OTUS_Lavrov.git"
+  },
+  "keywords": [
+    "js",
+    "webpack",
+    "jest",
+    "babel",
+    "prettier"
+  ],
+  "author": "AALavrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qber1/OTUS_Lavrov/issues"
+  },
+  "homepage": "https://github.com/Qber1/OTUS_Lavrov#readme"
+}
